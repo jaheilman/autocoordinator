@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#controls {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.team-container {
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+    min-height: 150px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    position: relative;
+}
+
+.team-container h2 {
+    margin-top: 0;
+}
+
+.team-content {
+    min-height: 100px;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.player {
+    padding: 5px;
+    margin: 5px 0;
+    background-color: #e0e0e0;
+    border-radius: 3px;
+    cursor: move;
+}
+
+.team-counter {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+canvas {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }

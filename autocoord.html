@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soccer Team Builder</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Soccer Team Builder</h1>
+    <div id="controls">
+        <label for="teamCount">Number of Teams:</label>
+        <input type="number" id="teamCount" min="1" value="1" />
+        <button id="updateTeams">Update Teams</button>
+        <button id="unassignAll">Unassign All</button>
+        <button id="autoAssign"><strong>Auto Assign</strong></button>
+    </div>
+    <div id="controls">
+        <button id="importData">Import Data</button>
+        <button id="exportData">Export Data</button>
+        <button id="sortAlphabetically">Sort Alphabetically</button>
+        <input type="file" id="importFile" style="display:none;">
+    </div>
+    <div id="container">
+        <div id="unassigned" class="team-container">
+            <h2>Unassigned Players</h2>
+            <div class="team-content" data-team="null"></div>
+        </div>
+    </div>
+    <canvas id="locationChart" width="200" height="200"></canvas>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,366 @@
+{
+    "players": [
+        {
+            "id": 0,
+            "name": "Player 0",
+            "location": [
+                31,
+                48
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 1,
+            "name": "Player 1",
+            "location": [
+                64,
+                34
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 2,
+            "name": "Player 2",
+            "location": [
+                45,
+                42
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 3,
+            "name": "Player 3",
+            "location": [
+                73,
+                60
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 4,
+            "name": "Player 4",
+            "location": [
+                41,
+                48
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 5,
+            "name": "Player 5",
+            "location": [
+                47,
+                64
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 6,
+            "name": "Player 6",
+            "location": [
+                50,
+                44
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 7,
+            "name": "Player 7",
+            "location": [
+                51,
+                63
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 8,
+            "name": "Player 8",
+            "location": [
+                52,
+                45
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 9,
+            "name": "Player 9",
+            "location": [
+                47,
+                61
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 10,
+            "name": "Player 10",
+            "location": [
+                42,
+                75
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 11,
+            "name": "Player 11",
+            "location": [
+                39,
+                51
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 12,
+            "name": "Player 12",
+            "location": [
+                33,
+                50
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 13,
+            "name": "Player 13",
+            "location": [
+                62,
+                48
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 14,
+            "name": "Player 14",
+            "location": [
+                47,
+                60
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 15,
+            "name": "Player 15",
+            "location": [
+                37,
+                48
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 16,
+            "name": "Player 16",
+            "location": [
+                37,
+                36
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 17,
+            "name": "Player 17",
+            "location": [
+                59,
+                59
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 18,
+            "name": "Player 18",
+            "location": [
+                48,
+                28
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 19,
+            "name": "Player 19",
+            "location": [
+                33,
+                73
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        }
+    ],
+    "teams": [
+        {
+            "id": 1,
+            "name": "Team 1",
+            "location": [
+                39,
+                43
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 2,
+            "name": "Team 2",
+            "location": [
+                56,
+                56
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 3,
+            "name": "Team 3",
+            "location": [
+                49,
+                45
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        },
+        {
+            "id": 4,
+            "name": "Team 4",
+            "location": [
+                51,
+                52
+            ],
+            "team": null,
+            "friends": [],
+            "distances": [],
+            "rankings": [],
+            "minRosterSize": null,
+            "maxRosterSize": null,
+            "coach_kid": null
+        }
+    ]
+}
